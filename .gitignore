@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+composer.lock
+/.idea
+/storage/api-docs/api-docs.json
+/app/Http/Controllers/API/SwaggerAPI.php
